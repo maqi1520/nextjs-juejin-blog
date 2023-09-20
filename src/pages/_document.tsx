@@ -25,6 +25,7 @@ class MyDocument extends Document {
           <link rel="manifest" href="/static/favicons/site.webmanifest" />
           <meta name="msapplication-TileColor" content="#000000" />
           <meta name="theme-color" content="#000000" />
+          <meta name="referrer" content="no-referrer">
         </Head>
         <body className="antialiased">
           <Main />
