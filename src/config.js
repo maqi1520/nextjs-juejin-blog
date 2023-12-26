@@ -1,5 +1,5 @@
 export const config = {
-  title: " peter | 阅读",
+  title: " Peter's Blog’",
   description: "分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。",
   author: "peter",
   avatar:
