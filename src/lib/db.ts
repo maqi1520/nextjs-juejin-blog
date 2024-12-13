@@ -18,6 +18,7 @@ export async function getArticleDetail(article_id: string) {
     "https://api.juejin.cn/content_api/v1/article/detail",
     {
       article_id,
+      client_type: 2608,
     }
   );
 
